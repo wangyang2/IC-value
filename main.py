@@ -1,3 +1,4 @@
+# python version = 3.5
 import jieba
 import re
 import itertools
